@@ -1,4 +1,5 @@
 🥗 Smart Meal Planner
+
 Smart Meal Planner is a user-friendly web app built with Python and Streamlit that helps you plan nutritious meals effortlessly. It’s designed to take the stress out of meal planning by suggesting recipes based on the ingredients you have at home and generating meal plans tailored to your preferences.
 
 Whether you’re a student, working professional, or fitness enthusiast, this app makes cooking easier and healthier.
