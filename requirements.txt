@@ -1,6 +1,6 @@
 streamlit
 pandas
-matplotlib
+matplotlib.pyplot
 time 
 random
 sqlite3
